@@ -27,4 +27,4 @@ Use these links :
 Dataset : https://drive.google.com/drive/folders/1GE9WFyzP1c6Gy1GoHS3QFAu-hkAQixqa?usp=sharing
 
 Pretrained model in .tar format : https://drive.google.com/drive/folders/1ydDciKSPZHG2itIUB6yvCYvGl9ZRr_Qj?usp=sharing
-'''
+```
